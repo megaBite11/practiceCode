@@ -1,0 +1,1 @@
+@py.exe C:\Code\practiceCode\mcb.pyw %*
